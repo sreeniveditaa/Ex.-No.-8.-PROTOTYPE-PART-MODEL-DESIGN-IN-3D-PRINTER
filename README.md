@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![{EB6A48B8-8F08-4778-B8B5-C26798E9F0EE}](https://github.com/user-attachments/assets/9cfbe7c7-c29d-4026-aaf0-c0e489129d48)
+
+### Name: SREE NIVEDITAA SARAVANAN
+### Register Number: 212223230213
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
